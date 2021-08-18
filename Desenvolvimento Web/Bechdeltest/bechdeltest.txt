@@ -1,0 +1,11 @@
+1) A função desse site é bem executada?
+R:Sim, ele mostra filmes que passaram e não passaram no teste.
+
+2) Você encontrou algum filme interessante que passe neste teste? Informe.
+R:Sim. O Space Jam, eu imaginava que teria apenas personagens mulheres com protagonistas.
+
+3) Você encontrou algum filme interessante que não passe nesse teste? Informe.
+R:Não, pois não sou muito antenado em filmes.
+
+4) Visualmente o site é fraco. Isso é uma afirmação. Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
+R:Trocar as cores do site e troca o conteudo do canto da página para o meio.
